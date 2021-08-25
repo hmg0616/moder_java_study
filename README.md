@@ -8,7 +8,7 @@
 
 ## 일정
 * 1주차 : -, 발표자 : 김유진
-* 2주차 : [** 2주차 **](https://github.com/hmg0616/moder_java_study/issues/2), 발표자 : 한문규
+* 2주차 : [**2주차**](https://github.com/hmg0616/moder_java_study/issues/2), 발표자 : 한문규
 * 3주차 : [**.**](https://github.com/hmg0616/moder_java_study/issues/3), 발표자 : 권동희
 * 4주차 : [**.**](https://github.com/hmg0616/moder_java_study/issues/4), 발표자 : 정서원
 * 5주차 : [**.**](https://github.com/hmg0616/moder_java_study/issues/5), 발표자 : 김유진
