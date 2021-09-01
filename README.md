@@ -17,6 +17,9 @@
 * 8주차 : [**8주차**](https://github.com/hmg0616/moder_java_study/issues/8), 발표자 : 정서원
 * 9주차 : [**9주차**](https://github.com/hmg0616/moder_java_study/issues/9), 발표자 : 김유진
 
+## 일정 안지킨 사람
+* 2주차(2021/09/01) : 김유진
+
 
 ## 목차
 [ PART I 기초 ]
