@@ -13,7 +13,7 @@
 * 4주차 : [**4주차 (4장~5장)**](https://github.com/hmg0616/moder_java_study/issues/4), 발표자 : 정서원
 * 5주차 : [**5주차 (6장)**](https://github.com/hmg0616/modern_java_study/issues/5), 발표자 : 김유진
 * 6주차 : [**6주차 (7장~8장)**](https://github.com/hmg0616/moder_java_study/issues/6), 발표자 : 한문규
-* 7주차 : [**7주차**](https://github.com/hmg0616/moder_java_study/issues/7), 발표자 : 권동희
+* 7주차 : [**7주차 (9장)**](https://github.com/hmg0616/moder_java_study/issues/7), 발표자 : 권동희
 * 8주차 : [**8주차**](https://github.com/hmg0616/moder_java_study/issues/8), 발표자 : 정서원
 * 9주차 : [**9주차**](https://github.com/hmg0616/moder_java_study/issues/9), 발표자 : 김유진
 
