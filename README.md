@@ -20,6 +20,7 @@
 * 11주차 : [**11주차 (14장)**](https://github.com/hmg0616/moder_java_study/issues/11), 발표자 : 권동희
 * 12주차 : [**12주차 (15장)**](https://github.com/hmg0616/moder_java_study/issues/12), 발표자 : 정서원
 * 13주차 : [**13주차 (16장)**](https://github.com/hmg0616/moder_java_study/issues/13), 발표자 : 김유진
+* 14주차 : [**14주차 (17장)**](https://github.com/hmg0616/moder_java_study/issues/14), 발표자 : 한문규
 
 ## 일정 안지킨 사람
 * 2주차(2021/09/01) : 김유진
